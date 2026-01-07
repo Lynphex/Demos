@@ -6,6 +6,5 @@ venv/
 .env
 __pycache__/
 .DS_Store
-node_modules/
 .next/
 dist/       # Ignorar entorno virtual de Python
