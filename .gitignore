@@ -1,0 +1,5 @@
+*.log         # Ignorar archivos .log
+node_modules/  # Ignorar la carpeta node_modules
+*.pyc         # Ignorar archivos compilados de Python
+.ipynb_checkpoints/
+.venv/         # Ignorar entorno virtual de Python
